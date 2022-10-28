@@ -1,0 +1,9 @@
+[submodule "my_website/themes/themes/toha"]
+	path = my_website/themes/themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "my_website/themes/toha"]
+	path = my_website/themes/toha
+	url = https://github.com/hugo-toha/toha.git
